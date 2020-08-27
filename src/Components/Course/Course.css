@@ -1,0 +1,25 @@
+.course-container{
+    width:100%;
+    border: 2px solid #000;
+    padding-bottom:10px;
+    border-radius:5px;
+   
+}
+.course-container:hover{
+    box-shadow: 0px 10px 10px rgba(0, 128, 0, 0.575);
+}
+
+.course-container h3,p{
+    margin-left: 10px;
+}
+.enrollBtn{
+    outline: none;
+    border:1px solid #000;
+    border-radius: 5px;
+    margin-left: 10px;
+    color: #ffff;
+}
+.enrollBtn:hover{
+    background: transparent;
+    color:#000;
+}
